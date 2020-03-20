@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Steam Tradeoffer Alert
 // @namespace    https://steamcommunity.com/profiles/76561198144346135
-// @version      1.0.1
+// @version      1.1.0
 // @description  Desktop notifications for open trade offers
 // @author       Zeus_Junior/76561198144346135
 // @grant        none
